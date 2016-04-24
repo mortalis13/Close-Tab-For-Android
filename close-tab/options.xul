@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting pref="extensions.close_tab.keep_last" type="bool" title="Keep Last Tab">
+    Don't exit app when the Close Tab button is pressed on last tab 
+  </setting>
+</vbox>
